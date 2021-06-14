@@ -4,7 +4,7 @@ Anyone is welcome to contribute, we love to see what fun prints all of you are p
 
 **Contributions has to abide to the following rules:**
  - A new* model gets it's own directory.
- - Every print is to be accompanied with a picture of the print
+ - Every print is to be accompanied with a picture of the model (Not from 3d software, real image).
  - Multi-part prints should have one parent directory with subsequent item directories.
  - The name of each directory should be short, explanatory of the print and appropriate.
  - Model directory should fit into an appropriate subdirectory.
