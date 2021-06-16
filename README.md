@@ -8,6 +8,7 @@ Anyone is welcome to contribute, we love to see what fun prints all of you are p
  - Multi-part prints should have one parent directory with subsequent item directories.
  - The name of each directory should be short, explanatory of the print and appropriate.
  - Model directory should fit into an appropriate subdirectory.
+ - If the model is taken from a seperate resource, the original resource must be linked.
 
 **Contributions are not forced to but are welcome to have:**
  - A text file documenting the prints function or use case.
