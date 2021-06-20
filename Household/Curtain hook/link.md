@@ -1,1 +1,1 @@
-https://www.thingiverse.com/thing:116172
+Original design: https://www.thingiverse.com/thing:116172
